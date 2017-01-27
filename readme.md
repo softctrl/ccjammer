@@ -27,7 +27,7 @@ We believe it is ready to go, as-is. However, we hope the public can review and 
 
 We are unsure as to how to create a "dev setup" beyond the fact that the PCBs were designed using [Protel (now known as Altium)](http://www.altium.com/). Any help on improving this section is appreciated.
 
-### Skilsets required
+### Skillsets required
 
 * Programming
 
