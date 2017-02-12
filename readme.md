@@ -5,6 +5,8 @@
 
 This repository has been created in honor of my father, Touraj Ghaffari. He founded [ActiveWave, Inc.](http://www.activewaveinc.com/) in 2001. It was his life work and something he loved and enjoyed thoroughly. He also loved spreading knowledge. In honor of that principle, we, his three sons, have open-sourced everything associated with his CC Jammer under the [Apache 2.0 license](license). We hope this release helps you acheive your dreams.
 
+**Note: This system intentionally interferes with RF signals. Please check your local laws to determine if this is a device you can legally possess/create. From our understanding, there is nothing that made this illegal to possess/create in the US, but we provide no guarantees. Use at your own risk.**
+
 ## What is this project?
 
 The CC Jammer's purpose is to protect credit cards and other sensitive items that are NFC-enabled. My father made two videos, showing how they work:
