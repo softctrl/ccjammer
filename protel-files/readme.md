@@ -1,6 +1,6 @@
 # Protel Files
 
-These are the files you'll need to actually create the card itself. Using Protel software and the parts from the [BOM files](https://github.com/tourajghaffari/ccjammer/blob/master/protel-files/bom-files), you should be able to create your own card.
+These are the files you'll need to actually create the card itself. Using Protel software and the parts from the [BOM files](https://github.com/tourajghaffari/ccjammer/tree/master/bom-files), you should be able to create your own card.
 
 ## Contents
 
