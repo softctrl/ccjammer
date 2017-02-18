@@ -27,9 +27,15 @@ We believe it is ready to go, as-is. However, we hope the public can review and 
 
 1. Determine how many ccjammers you would like to manufacture.
 
+<<<<<<< HEAD
 2. Use the [BOM files](bom-files) to figure out how many parts you need
 
 3. Manufacture the parts using the [Protel files](protel-files). All the PCBs were designed using [Protel (now known as Altium)](http://www.altium.com/).
+=======
+2. Use the BOMs to figure out how many parts you need
+
+3. Manufacture the parts using the [Protel Files](protel_pcb_files). All the PCBs were designed using [Protel (now known as Altium)](http://www.altium.com/).
+>>>>>>> origin/master
 
 4. Share whatever improvements you make!
 
@@ -57,9 +63,15 @@ We believe it is ready to go, as-is. However, we hope the public can review and 
 
 ## Contents
 
+<<<<<<< HEAD
 1. [BOM files](bom-files)
 
 2. [Protel files](protel-files)
+=======
+1. [BOM files](bom)
+
+2. [Protel files](protel_pcb_files)
+>>>>>>> origin/master
 
     a. [Rev0](protel-files/rev0)
 
