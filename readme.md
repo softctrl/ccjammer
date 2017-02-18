@@ -57,7 +57,7 @@ This project is currently fully functional in its current state.
 
 ## Contents
 
-1. [BOM files](bom)
+1. [BOM files](bom-files)
 
 2. [Protel files](protel-files)
 
